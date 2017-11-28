@@ -1,0 +1,501 @@
+Cuenta planilla LAFISE:
+109051618
+-----------------------------------------------------------------------------------------------
+Cuenta BDF
+6003694125
+-----------------------------------------------------------------------------------------------
+Cuenta de Elsa:
+109033177
+-----------------------------------------------------------------------------------------------
+Cuenta de Frank:
+109005407
+-----------------------------------------------------------------------------------------------
+Cuenta de Robert:
+117001838
+COR
+-----------------------------------------------------------------------------------------------
+Cuenta de Earl:
+117020570
+COR
+-----------------------------------------------------------------------------------------------
+
+
+
+Todos los hombres son dotados por su Creador de ciertos derechos inalienables; que entre éstos están la Vida, la Libertad y la búsqueda de la Felicidad. 
+
+
+
+FROM dbo.SISCO_MAESTRO_TARJETAS WITH(NOLOCK)
+WHERE NumeroId LIKE '6032603920004S'
+
+
+
+SELECT *
+FROM dbo.tarjeta
+
+
+USE SISCO
+
+
+SELECT *
+FROM dbo.[SISCO_MAESTRO_CUENTAS]
+WHERE NumeroCuenta = '0024516853'
+
+SELECT * FROM BNBCYFILES . CUMST WHERE CUSNA1 LIKE '%HEYSELL JOHA%' ;
+SELECT * FROM BNBCYFILES . CUMSA WHERE CUXCLI IN (663784) ; 
+610-030394-0000Y	
+
+
+
+
+
+Cortes:
+
+LAFISE Dorada:
+Fecha Corte:  14/ene/2017
+Fecha Lim.Pago: 06/feb/2017
+
+
+
+
+BAC Token:
+8526
+
+LAFISE:
+PCORTES09
+371423
+Quasar258462
+
+BANPRO:
+PASTORCORTES
+371653#PAS
+Pregunta: madre? Managua
+
+
+BDF:
+PCORTES09
+371653#Pas
+PIN electronico: 4999
+PIN: 4099
+¿Cuál fue la marca de su primer vehículo?
+Toyota
+
+
+
+
+MADRE = MANAGUA
+
+Telepago BANPRO
+*1530
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------
+Al 25 de Noviembre
+
+LAFISE			4400 C$
+LAFISE			10 USD
+BAC			1700 C$
+SIMAN			1800 C$ (60 USD)
+Diezmo			1100 C$		+ 	600 C$
+
+-----------------------------------------------------------------------------
+Al 10 de Diciembre
+
+Diezmo			1100 C$						LISTO
+BANPRO			67 USD						LISTO				
+BANPRO			1280 C$		(RINES CUOTA 5/9)		LISTO
+BANPRO			1890 C$						LISTO
+BAC			2000 C$						LISTO
+
+BAC (bateria)		2175 C$
+
+-----------------------------------------------------------------------------
+Al 23 de Diciembre
+
+Diezmo			1100 C$						LISTO
+BAC			1100 C$						LISTO
+BANPRO			320  C$						LISTO
+LAFISE			1600 C$						LISTO
+
+REGALO_HEYSELL		100 USD						LISTO
+REGALO_MOM		50 USD						LISTO
+
+
+-----------------------------------------------------------------------------
+Al 10 de Enero
+
+Diezmo			1100 C$						LISTO
+BAC			1400 C$						LISTO
+
+BANPRO			7.5  USD					LISTO
+BANPRO			760  C$						LISTO
+BANPRO			1280 C$		(RINES CUOTA 6/9)		LISTO
+LAFISE			3000 C$						LISTO
+SIMAN			900  C$						LISTO
+
+REGALO_DAD		800  C$						LISTO
+
+-----------------------------------------------------------------------------
+Al 25 de Enero
+
+Diezmo			1100 C$						LISTO
+DEUDA_AUTO		1200 C$						LISTO
+DEUDA_MOM		350  C$						LISTO
+BAC			2000 C$						LISTO
+BANPRO			901  C$						LISTO
+LAFISE			10   USD					LISTO
+LAFISE			1600 C$						LISTO
+
+
+-----------------------------------------------------------------------------
+Al 10 de Febrero
+
+Diezmo			1100 C$						LISTO
+BAC			1800 C$						LISTO
+REGALO_MOM		1500 C$						LISTO
+BANPRO			1280 C$		(RINES CUOTA 7/9)		LISTO
+GASTOS_TARJETA		3000 C$						LISTO
+
+(LAFISE)Curso_UDEMY	15   USD	(450 C$)			LISTO
+
+Ortega y Flash		300  C$		BANPRO				LISTO
+Comida China		1065 C$						LISTO (Denis debe 213 C$)
+-----------------------------------------------------------------------------
+Al 25 de Febrero
+
+Diezmo			1000 C$						LISTO
+BAC			2000 C$						LISTO
+LAFISE			2100 C$						LISTO	(Base 300 +181 Los Cheros + 375 Salida 14Feb + 495 peli 50Sombras + 222 C$ Farmacia Xolotlan + 60 American Donuts + 84 C$ McDonalds + 500 Regalo Mom decir a papá)
+NINE WEST Heysell	1350 C$		BANPRO				LISTO
+REGALO_HEYSELL		1500 C$		TRANSPORTE			LISTO
+
+OUT!!!
+BANPRO			1280 C$		(Cellphone 1/6)			LISTO 	(GUARDAR)
+
+-----------------------------------------------------------------------------
+Al 10 de Marzo
+
+Diezmo			1200 C$		1100+100pasados				LISTO
+BAC			2000 C$		COMBUSTIBLE				LISTO
+LAFISE			583  C$		GASTOS VARIOS				LISTO
+BANPRO			1280 C$		(RINES CUOTA 8/9)			LISTO
+BANPRO-14Feb		1400 C$		(+1,000 LaPlancha  + 400.00 Visita)	LISTO	
+BANPRO			1671 C$		(VARIOS)				LISTO	(270 Recargas + 370 Quesillos + 76 Farmacia Xolotla Jarabe + 270 Asados El Carnal + 510 Domingo27Feb + 175 POPS)
+Tita-Regalo		1050 C$		SIMAN					LISTO
+BANPRO			242.5C$		Asados GueGuense Pastor 		LISTO
+TranferAYessi		204.58 C$	Cumple+CuotaDespedida			LISTO
+
+total de banpro:	1612 + 1671 + 1400 + 1280 
+
+
+BANPRO			321  C$		CUMPLE DE CHICCO - Elsa+Denis		L	-Recordar a Denis
+BANPRO			727  C$		Asados GueGuense Denis+Chicco+Elsa	L	-Recordar a Denis
+
+ASADOS GUEGUENSE
+969.17				ENTRE 4 = 242.5  C$		(PAGARON CHICCO Y ELSA)
+
+DENIS=242.5+320.6
+
+
+
+15-02-2017	 	AMAZON MKTPLACE PMTS		202.71
+
+
+
+-----------------------------------------------------------------------------
+Al 25 de Marzo
+
+Diezmo			1100 C$		10%				LISTO	
+BAC			2000 C$						LISTO
+BANPRO			1500 C$		(RINES CUOTA 9/9)		LISTO
+BANPRO			350  C$		FLOTANTE			LISTO
+BANPRO			2612 C$		VARIOS				LISTO	(CumpleDeChicco 368 + McDonaldsDesayuno 84 + JohnWick2 700 + PolloLaColonia 268.45 + WrapMonterrey 67 + AsadosElCarnal 340 + RecargaHey 140 + TenderPollo 124 + Visita 400 + Pops 260)
+LAFISE			80   C$		GASTOS CAFETERIA		LISTO
+LAFISE			9.89 $$		GASTOS CAFETERIA		LISTO
+	
+-----------------------------------------------------------------------------
+Al 10 de Abril
+
+Diezmo			1100 C$		10%				LISTO
+BAC			2000 C$		FUEL				LISTO
+SIMAN			790  C$		Regalo Doris E			LISTO
+GASTO_CASH		200  C$		Recarga 140 + 60		LISTO
+
+LAFISE			2233 C$		VARIOS				LISTO	(SINSA 1050 C$ + 110 C$ Gasto de Mani + SINSA 529 C$ + LosCheros 207 C$ + Donas 15 C$)
+
+BANPRO			2000 C$		Botas Café			L
+BANPRO			50   $		(Cellphone CUOTA 1/6)		LISTO
+BANPRO			202  C$		SE GASTO DE UNA CUOTA DE 240	LISTO
+
+PrestamoTita		100  C$		Prestamo			LISTO
+
+
+
+
+OJO:		VER LA CUOTA DE RINES DEL 25 DE MARZO, HAY QUE PAGAR ESO
+		CANCELAR SEGURO DE LA GASCARD
+
+BANPRO			960  C$		Despedida Denis 		LISTO	(Denis 240 Cada uno ... PAGARON: Elsa + Francisco + Edwing + ME )
+DENIS			203  C$		COMIDA CHINA con Rob		LISTO	(Cobrar a Denis, esto queda en mi cuenta planilla)
+
+
+
+
+--Se cubren con 50 USD - TDS
+BANPRO			915  C$		Despedida Denis 		LISTO	(DespedidaDenis 240 + Visita 375)
+LAFISE			325  C$		Cine Martes 4-Abr		LISTO, NO TOCAR CUANDO TE ACREDITEN ESTO
+BAC			300  C$		Gastos varios FUEL		LISTO, NO TOCAR CUANDO TE ACREDITEN ESTO
+203
+
+--Se cubre con 40 USD de Spotify + Netflix (validos luego del 15)
+ElCarnal		480  C$
+SubwayAlmuerzo		203  C$
+ElCarnal		170  C$
+PastillasH		42   C$
+
+
+OJO:		VER LA CUOTA DE RINES DEL 25 DE MARZO, HAY QUE PAGAR ESO
+		CANCELAR SEGURO DE LA GASCARD
+			
+-----------------------------------------------------------------------------
+Al 25 de Abril
+
+Diezmo			1100 C$		10%				LISTO
+BAC			1950 C$						LISTO
+BANPRO			2000 C$		Botas Café (67 USD)		LISTO
+BANPRO			1000 C$		Heysell	- Luz Electrica		LISTO
+LAFISE			2650 C$		VARIOS				LISTO	POPS 212 C$ + Cinemas Gale 1282 C$ + Netflix 10 USD + (Pedir a Denis los 168 C$)
+
+-----------------------------------------------------------------------------
+
+Al 10 de Mayo
+
+Diezmo			1100 C$		10%				LISTO
+BAC			2000 C$						LISTO
+BANPRO			1500 C$		(Cellphone CUOTA 2/6)		LISTO		50 USD
+BANPRO			2000 C$		Botas Café (67 USD)		LISTO
+LAFISE			3900 C$		VARIOS				LISTO		Salida al Mar 2000 + 300 Super + 100 de 4 leches
+
+-----------------------------------------------------------------------------
+
+Al 25 de Mayo
+
+Diezmo			1100 C$		10%				LISTO
+BAC			2000 C$						LISTO
+BANPRO			170  C$		Pago del seguro			LISTO
+LAFISE			1780 C$		CANCELACION			LISTO
+LAFISE			10   USD	CANCELACION			LISTO
+
+AYUDA_HEYSELL		3000 C$		Pago de Heysell			LISTO
+DIA_MADRE		1500 C$		550 Mom + 500 Mima + 500 pastel	LISTO
+
+
+Pollo Tip Top				758
+173.25 + 65 (Yo)
+
+Elsa		Pago
+Frank		Pago
+Denis		Pago
+
+-----------------------------------------------------------------------------
+
+Al 10 de Junio
+
+Diezmo			1100 C$		10%				LISTO
+BAC			2000 C$						LISTO
+
+LAFISE			2535 C$		VARIOS				LISTO		(302 CenaViernes26 + 180 corteCabello + 1063 VARIOS + 990 TipTopHeysellMom)
+LAFISE			1496 C$		SEGURO AUTO - ACCENT		LISTO
+
+BANPRO			1500 C$		Botas Café (49 USD)		LISTO		(Se paga a Mom el 10 de Junio)
+
+VARIOS			1036 C$		VARIOS				LISTO		(305 C$ CarlosHija + 185.75 COOTEL + 545 EnvioDadCamisa)
+
+SIMAN			580  C$		Regalo de Nahir			LISTO
+Mom			300  C$		Deuda_MOM			LISTO
+
+
+11500-(1100 + 2000 + 2535 + 1496 + 1500 + 1036 + 580 + 300)
+
+-----------------------------------------------------------------------------
+
+Al 25 de Junio
+
+Diezmo			1100 C$		10%				LISTO
+
+BAC			2000 C$						LISTO
+
+BANPRO			369  C$		(Tarjeta WALLMART)		LISTO	
+BANPRO 			104 USD		VARIOS				LISTO	[ 23-Junio Dia del Padre + (Cellphone CUOTA 3/6) ]
+BANPRO			600 C$		VARIOS				LISTO
+
+LAFISE			1283 C$						LISTO
+LAFISE			9.99 USD					LISTO
+
+Mom			1000 C$						LISTO
+RegaloPadresTI		207 C$						LISTO
+
+-----------------------------------------------------------------------------
+
+Al 10 de Julio
+
+Diezmo			1100 C$		10%				LISTO
+
+BAC			2500 C$		Combustibles			LISTO
+
+BANPRO			3000 C$		Varios Tarjeta Banpro		LISTO	(Varios 1476 C$ + CenaRonaldo 500 C$ + SalidaCine 910)
+
+LAFISE			3312.14 C$	Varios				LISTO	(Varios 486 + Carne-Varios 300 + PaliAltamira 335 + ColoniaGranVia 330 + Cumple Luis 1260 + Varios 601.49)
+
+Mom			400 C$						LISTO
+
+-----------------------------------------------------------------------------
+
+Al 25 de Julio
+
+Diezmo			1100 C$		10%				LISTO
+Mantenimiento-Auto	1500 C$		Mantenimiento con Julio		LISTO
+
+BAC			2500 C$		Combustibles			LISTO
+
+BANPRO			98.15$$		(Cellphone CUOTA 4/6)		LISTO	AMAZON + CELULAR
+BANPRO			996 C$		VARIOS				LISTO	VARIOS
+
+LAFISE			777.34 C$	Varios				LISTO	(VistaCastle 500 + 600 CenaHeysell)
+
+-----------------------------------------------------------------------------
+
+Al 10 de Agosto
+
+Diezmo			1100 C$		10%				LISTO
+BAC			2500 C$		Combustibles			LISTO
+LAFISE			5000 C$		Pago Tarjeta			LISTO
+
+-----------------------------------------------------------------------------
+
+Al 25 de Agosto
+
+Diezmo			1100 C$		10%				LISTO
+BANPRO			59   $$		(Cellphone CUOTA 5/6)		LISTO	(59 USD)
+BANPRO			178  C$		(Seguro BANPRO)			LISTO
+BAC			1950 C$		Combustibles			LISTO
+LAFISE			4310 C$		VARIOS				LISTO	(4000 + 10 USD)
+
+-----------------------------------------------------------------------------
+
+Al 10 de Septiembre
+
+Diezmo			1100 C$		10%				L
+BAC			2000 C$		Combustibles			LISTO
+
+BANPRO			1860 $$		(Cellphone CUOTA 6/6)		LISTO	(59 USD)
+BANPRO			1100 C$		(180 + 500 + 204 + 612)		LISTO
+
+LAFISE			29.22$$		CURSOS				LISTO
+LAFISE			3500						LISTO
+
+-----------------------------------------------------------------------------
+
+Al 25 de Septiembre
+
+Diezmo			1100 C$		10%				LISTO
+BAC			2000 C$		Combustibles			LISTO
+
+BANPRO			26.14$$		PAGO ZAPATOS			L
+BANPRO			170  C$		Seguro tarjeta			L
+
+LAFISE			4122 C$						LISTO
+LAFISE			10.45$$						LISTO
+
+Mom			1000 C$		Mom				LISTO
+Ruben			241  C$		Despedida_Marcos		LISTO
+Karina			171.04	C$	Almuerzo cumples		LISTO
+
+-----------------------------------------------------------------------------
+
+Al 10 de Octubre
+
+Diezmo			700 	C$		10%				LISTO
+BAC			2000 	C$		Combustibles			LISTO
+
+SIMAN			25   	$$		Regalo Papa Heysell		LISTO
+
+LAFISE			28.99  	$$		PAGO COOTEL			LISTO	(Elsa+yo+Chicco+Erol+Oscar)
+LAFISE			5500	C$		VARIOS				LISTO	(Lowery's + Super + Varios)
+
+BANPRO			1517 	C$		PAGO La Costeña			LISTO	(Mitad de 82 USD que se pagan en C$)
+
+-----------------------------------------------------------------------------
+
+Al 25 de Octubre
+
+Diezmo			1200 C$		10% + 600 pasados		LISTO
+BAC			2000 C$		Combustibles			LISTO
+
+BANPRO			2000 C$		PAGO La Costeña	+ CumpleElsa	LISTO	(Mitad de 82 USD que se pagan en C$)
+BANPRO_WALL		 525 C$						LISTO
+
+LAFISE			3800 C$						LISTO
+LAFISE			30   $$						LISTO
+
+
+11400-(1800+2000+2000+3800+(30*31))
+
+-----------------------------------------------------------------------------
+
+Al 10 de Noviembre
+
+Diezmo			1200 C$		10% + 600 pasados		LISTO
+BAC			2000 C$		Combustibles			L
+
+BANPRO			400  C$		Entradas Estadio+300 Heysell	LISTO
+BANPRO_WALL		387  C$		Chocolates Heysell		LISTO
+
+
+LAFISE			6900 C$						LISTO
+
+1610
+
+12300-(1800+2000+451+390+6900)
+
+-----------------------------------------------------------------------------
+
+Al 25 de Noviembre
+
+Diezmo			1200 C$		10% 				L
+BAC			2000 C$		Combustibles			L
+
+BANPRO			500  C$		Recarga de Entrevista		L
+
+LAFISE			5500 C$						L
+LAFISE			51   $$		Netflix + Spotify		L
+
+
+11400-(1200+2000+500+5500+(51*31))
+
+
+
+
+
+
+
+
+
+BANPRO			50   $$		Examen Microsoft		L
+
+
+Mensualidad Cootel:
+Elsa	Listo
+Pastor	L
+Darling	L
+David	L
+Oscar	L
